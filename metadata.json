@@ -1,0 +1,6 @@
+{
+  "name": "ReelsApp",
+  "description": "A very beautiful minimal app for creating and watching short videos with music and filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
